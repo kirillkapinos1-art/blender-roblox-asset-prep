@@ -1,0 +1,3 @@
+# Runtime relies on Blender's built-in Python (bpy, bmesh, mathutils).
+# Development / unit testing only:
+pytest>=8.0.0
